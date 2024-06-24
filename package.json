@@ -1,0 +1,18 @@
+{
+  "name": "bot-whatsapp",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.24.0"
+  }
+}
