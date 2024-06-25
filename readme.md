@@ -1,6 +1,5 @@
-# To do
+# TODO
 
-Auth mongoose store
-doujinshi scrapping
-
-smth else fornoh
+- Auth mongoose store
+- Doujinshi scrapping
+- Smth else fornoh
