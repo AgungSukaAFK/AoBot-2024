@@ -11,8 +11,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "holodex.js": "^2.0.5",
     "nodemon": "^3.1.4",
     "qrcode-terminal": "^0.12.0",
+    "vtuber-wiki": "^1.1.5",
     "whatsapp-web.js": "^1.24.0"
   }
 }
