@@ -10,7 +10,7 @@ const util = require("./utils/regex.js");
 
 // HOLODEX START
 const holo = new HolodexApiClient({
-  apiKey: process.env.HOLODEX_APIKEY,
+  apiKey: process.env.HOLODEX_APIKEY || "",
 });
 // HOLODEX END
 
